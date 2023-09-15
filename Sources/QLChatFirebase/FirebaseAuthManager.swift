@@ -16,7 +16,7 @@ public class FirebaseAuthManager {
     // MARK: - Initialization
 
      init() {
-        FirebaseApp.configure()
+        //FirebaseApp.configure()
     }
 
     // MARK: - User Registration
